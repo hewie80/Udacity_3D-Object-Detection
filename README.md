@@ -1,1 +1,2 @@
-# Udacity_3D-Object-Detection
+# Compute Lidar Point-Cloud from Range Image
+## Visualize range image channels
