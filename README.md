@@ -11,3 +11,9 @@ Also some feastures can be differed. In below picure, wheels is triangled. Mirro
 ![ID_S1_EX2_features](https://user-images.githubusercontent.com/99339837/159145402-d4994a01-84f7-4a0f-94a4-08d5f46f0129.jpg)
 # Create Birds-Eye View from Lidar PCL
 ## Convert sensor coordinates to BEV-map coordinates
+Convert sensor coordinates to bev-map coordinates
+
+intensity layer of bev-map 
+![ID_S2_EX2](https://user-images.githubusercontent.com/99339837/159145776-332da5a1-d7c1-4435-828a-ee1c8859b690.jpg)
+height layer of bev-map
+![ID_S2_EX2_Height ](https://user-images.githubusercontent.com/99339837/159145780-b2daea02-7e78-4138-9f2c-ed3ea67cf0d2.jpg)
